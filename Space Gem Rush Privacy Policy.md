@@ -1,16 +1,3 @@
-::: {#page .site}
-[Skip to
-content](https://www.pwaytimegames.com/privacy_spaceminer/#content){.skip-link
-.screen-reader-text}
-
-::: {#content .site-content}
-::: {.main .bg-custom-template role="main"}
-::: {.bge-content-main}
-::: {.bge-entry-content}
-::: {.boldgrid-section}
-::: {.container-fluid}
-::: {.row style="padding-top: 30px; padding-bottom: 30px;"}
-::: {.col-md-12 .col-xs-12 .col-sm-12}
 **Privacy Policy**
 
 Pwaytime team published Space Gem Rush: Match 3 Runner app as a Free
@@ -114,16 +101,4 @@ changes are effective immediately after they are posted on this page.
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do
-not hesitate to contact us at evkudev\@pwaytimegames.com
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-
-::: {.site-info}
-:::
-:::
+not hesitate to contact us at gane1404\@gmail.com
